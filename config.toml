@@ -1,0 +1,13 @@
+baseurl = "http://beartek.pw/eiwos"
+languageCode = "es-es"
+title = "EIWOS"
+canonifyUrls = "true"
+theme = "landing-page-hugo"
+DefaultContentLanguage = "es"
+
+[params]
+    description = "Protocolos abiertos para la integracion de widgets hechos en html+css+js"
+    custom_css = []
+    home = "Inicio"
+    about = "Acerca de"
+    standars = "Estandares"
