@@ -1,4 +1,4 @@
-baseurl = "http://beartek.pw/eiwos"
+baseurl = "https://beartek.pw/eiwos/"
 languageCode = "es-es"
 title = "EIWOS"
 canonifyUrls = "true"
